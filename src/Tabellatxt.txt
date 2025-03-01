@@ -1,4 +1,6 @@
-         ID                         |            TIPO            |              ATTRIBUTO          |
+       COLONNE                        |            TIPO            |              ATTRIBUTO          |
+
+        ID                                    int                             AUTO_INCREMENT
                                                                        
         marca                                 VARCHAR(35)                     NOT_NULL
 
