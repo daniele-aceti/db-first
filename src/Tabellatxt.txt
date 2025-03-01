@@ -1,0 +1,48 @@
+         ID                         |            TIPO            |              ATTRIBUTO          |
+                                                                       
+        marca                                 VARCHAR(35)                     NOT_NULL
+
+        modello                               VARCHAR(20)                     NOT_NULL
+
+        cilindrata                            int                             NOT_NULL
+
+        colore                                VARCHAR(35)                     NOT_NULL
+
+        anno_produzione                       YEAR                            NOT_NULL
+
+        targa                                 VARCHAR(7)                      NOT_NULL, UNIQUE
+
+        condizione                            TEXT                            NULL
+
+        prezzo_acquisto                       int                             NOT_NULL
+
+        prezzo_vendita                        int                             NOT_NULL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
